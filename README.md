@@ -7,9 +7,9 @@ lex.py pars.py gui.py dosyalarının içindedir.
 
 
 ## Kullanılan Teknolojiler
--Python
--Tkinter(GUI için)
--re (sözlük analizi regex ile)
+- Python
+- Tkinter(GUI için)
+- re (sözlük analizi regex ile)
 
 
 ## Renklendirme
