@@ -1,20 +1,20 @@
 # Programlama-Dilleri-Projesi
-##Projenin Amacı
+## Projenin Amacı
 Kullanıcının yazdığı kodu anında renklendiren ve gramerini kontrol eden Python uygulaması.
 
-##Kodlar
+## Kodlar
 lex.py pars.py gui.py dosyalarının içindedir.
 
 
-##Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 -Python
 -Tkinter(GUI için)
 -re (sözlük analizi regex ile)
 
 
-##Renklendirme
+## Renklendirme
 Anahtar Kelimeler , Sayılar , Operatörler vs.. farklı renkte görünür.
 
-##Programa Ait Tanıtım Videosu
+## Programa Ait Tanıtım Videosu
 
 LİNK ------------>
