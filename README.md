@@ -17,4 +17,4 @@ Anahtar Kelimeler , Sayılar , Operatörler vs.. farklı renkte görünür.
 
 ## Programa Ait Tanıtım Videosu
 
-LİNK ------------>
+LİNK ------------> https://youtu.be/g_Qw13hr3xQ
